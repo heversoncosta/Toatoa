@@ -1,0 +1,48 @@
+body {
+width:95%;
+max-width: 900px;
+margin:auto;
+
+background: url(fundo.jpg) center;
+margin: auto;
+
+font-weight: 900;
+font-family: sans-serif;
+line-height: 1.5;
+color: white;
+
+}
+main{
+  background: black;
+  opacity: 96%;
+  padding: 5%;
+  margin-top: 10%
+}
+.site-name{
+  text-align: justify;
+  font-size: 50px;
+}
+.descriçao{
+  text-align: justify;
+}
+.card {
+  color: black;
+  line-height: 1.5;
+
+}
+.subtitlecalma {
+color: white;
+}
+.subtitleagitada {
+color: white;
+}
+.subtitleser-film {
+color: white;
+}
+.card-deck {
+  margin: 15px;
+  text-align: center;
+}
+.subtitleromance {
+  color: white;
+}
